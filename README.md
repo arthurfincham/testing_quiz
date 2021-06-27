@@ -1,8 +1,8 @@
 <h2>Quizzy</h2>
 
-![](https://img.shields.io/github/last-commit/arthurfincham/quizzy)
-![](https://img.shields.io/github/languages/count/arthurfincham/quizzy)
-![](https://img.shields.io/github/languages/code-size/arthurfincham/quizzy)
+![](https://img.shields.io/github/last-commit/arthurfincham/testing_quiz)
+![](https://img.shields.io/github/languages/count/arthurfincham/testing_quiz)
+![](https://img.shields.io/github/languages/code-size/arthurfincham/testing_quiz)
 
 <h3>Description</h3>
 
