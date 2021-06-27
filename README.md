@@ -1,0 +1,1 @@
+Quiz made with a tutorial from [sitepoint](https://www.sitepoint.com/simple-javascript-quiz/).
